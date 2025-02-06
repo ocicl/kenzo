@@ -4,6 +4,6 @@ A repackaged version of the Kenzo program by Francis Sergeraert and collaborator
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/gheber/kenzo.git |
-| commit  | 862183c                                 |
+| commit  | f68ee7a                                 |
 | systems | kenzo                                   |
 |---------+-----------------------------------------|
